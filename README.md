@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# 🚀 Claret Obele - Portfolio Website
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive portfolio website built with React and Tailwind CSS. Showcasing my frontend development skills, projects, and contact information.
 
-## Available Scripts
+![Portfolio Screenshot] (public\portfolio screenshot.png)
 
-In the project directory, you can run:
+## ✨ **Live Demo**
+[🔗 **View Live Website**](https://claret-01.github.io/portfolio-website)
 
-### `npm start`
+## 📁 **Project Structure**
+portfolio-website/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── Navbar.jsx
+│ │ ├── Hero.jsx
+│ │ ├── About.jsx
+│ │ ├── Projects.jsx
+│ │ ├── Skills.jsx
+│ │ ├── Contact.jsx
+│ │ └── Footer.jsx
+│ ├── data/
+│ │ └── projects.js
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── README.md
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠️ **Tech Stack**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Frontend Framework:** React 18
+- **Styling:** Tailwind CSS
+- **Icons:** React Icons
+- **Animations:** Framer Motion
+- **Routing:** React Router DOM
+- **Deployment:** GitHub Pages
+- **Form Handling:** Formspree
 
-### `npm test`
+## 🚀 **Features**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ✅ **Fully Responsive** - Works on all devices
+- ✅ **Dark/Light Mode Ready** - Easy to implement
+- ✅ **Contact Form** - Connected to Formspree backend
+- ✅ **Smooth Animations** - Using Framer Motion
+- ✅ **Project Showcase** - With GitHub and live demo links
+- ✅ **Skills Section** - Categorized by technology
+- ✅ **SEO Optimized** - Meta tags and proper structure
+- ✅ **Fast Loading** - Optimized performance
 
-### `npm run build`
+## 📦 **Installation & Setup**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1. **Clone the repository**
+```bash
+git clone https://github.com/claret-01/portfolio-website.git
+cd portfolio-website
+1. Install dependencies
+npm install
+2. Start development server
+npm start
+3. Open http://localhost:3000 to view in browser.
+4. Build for production
+npm run build
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**👤 Author:**
+Claret Obele
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Email: claretkanyima@gmail.com
 
-### `npm run eject`
+GitHub: @claret-01
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+LinkedIn: [https://linkedin.com/in/claret-obele-597241323]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Portfolio: [https://claret-01.github.io/portfolio-website]
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
