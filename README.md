@@ -6,7 +6,7 @@
 
 A modern, responsive portfolio website built with React and Tailwind CSS. Showcasing my frontend development skills, projects, and contact information.
 
-![Portfolio Screenshot] (public\portfolio screenshot.png)
+![portfolio screenshot] (./public/portfolio screenshot.png)
 
 ## ✨ **Live Demo**
 [🔗 **View Live Website**](https://claret-01.github.io/portfolio-website)
