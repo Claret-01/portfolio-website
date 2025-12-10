@@ -9,7 +9,7 @@ A modern, responsive portfolio website built with React and Tailwind CSS. Showca
 ![portfolio screenshot] (./public/portfolio screenshot.png)
 
 ## ✨ **Live Demo**
-[🔗 **View Live Website**](https://claret-01.github.io/portfolio-website)
+[🔗 **View Live Website**](https://claret-01.github.io/portfolio-website/)
 
 ## 📁 **Project Structure**
 portfolio-website/
@@ -74,5 +74,5 @@ GitHub: @claret-01
 
 LinkedIn: [https://linkedin.com/in/claret-obele-597241323]
 
-Portfolio: [https://claret-01.github.io/portfolio-website]
+Portfolio: [https://claret-01.github.io/portfolio-website/]
 
