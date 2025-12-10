@@ -4,8 +4,8 @@ export const projects = [
     title: "My Profile Web App",
     description: "Created a simple personal profile app with reusable components, responsive styling, and structured folder architecture.",
     technologies: ["React", "Tailwind CSS", "GitHub Pages"],
-    github: "https://github.com/claret-01/my-profile",
-    live: "https://claret-01.github.io/my-profile",
+    github: "https://github.com/claret-01/portfolio-website",
+    live: "https://claret_01.github.io/portfolio-website",
   },
   {
     id: 2,

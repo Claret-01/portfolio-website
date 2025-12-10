@@ -63,7 +63,7 @@ const Projects = () => {
 
         <div className="text-center mt-12">
           <a
-            href="https://github.com/claret_01"
+            href="https://github.com/claret-01"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-2 bg-dark text-white px-6 py-3 rounded-lg hover:bg-gray-800 transition-colors"
